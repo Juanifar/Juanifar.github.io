@@ -74,5 +74,5 @@
 	$(".button, a, button").mouseup(function() {
 		$(this).blur();
 	});
-	if (window.location.href.match("juanifar.me")) window.location.protocol='https:'
+	
 })(jQuery);
